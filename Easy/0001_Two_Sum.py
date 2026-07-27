@@ -9,3 +9,4 @@ s=Solution()
 arr=list(map(int,input()))
 target=int(input())
 print(s.twosum(arr,target))
+ 
