@@ -28,12 +28,12 @@ LeetCode-Solutions/
 
 ## Problems Solved
 
-###  Easy
+##  Easy Problems
 
-| # | Problem |
-|---|---------|
-| 0001 | Two Sum |
-| 0009 | Palindrome Number |
+| # | Problem | Approach | Time | Space |
+|---|---------|----------|------|-------|
+| 0001 | Two Sum | Brute Force (Nested Loops) | O(n²) | O(1) |
+| 0009 | Palindrome Number | String Reversal | O(n) | O(n) |
 
 ###  Medium
 
