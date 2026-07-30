@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems as I improve my problem-solving skills and prepare for technical interviews.
+This repository contains my solutions to LeetCode problems in **Python**. I created this repository to improve my problem-solving skills, strengthen my understanding of Data Structures and Algorithms, and prepare for coding interviews and placements.
 
-## Language
+##  Language
 
 - Python
 
-## Repository Structure
+## 📁 Repository Structure
 
 ```
 LeetCode-Solutions/
@@ -17,6 +17,10 @@ LeetCode-Solutions/
 │   ├── README.md
 │   └── solution.py
 │
+├── 0007-Reverse-Integer/
+│   ├── README.md
+│   └── solution.py
+│
 ├── 0009-Palindrome-Number/
 │   ├── README.md
 │   └── solution.py
@@ -24,29 +28,39 @@ LeetCode-Solutions/
 └── ...
 ```
 
-## Progress
+## 📊 Progress
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 2 |
+| Easy | 3 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | **2** |
+| **Total** | **3** |
 
-## Problems Solved
+##  Problems Solved
 
 | # | Problem | Difficulty | Approach | Time | Space |
 |---|---------|------------|----------|------|-------|
 | 0001 | Two Sum | Easy | Brute Force (Nested Loops) | O(n²) | O(1) |
+| 0007 | Reverse Integer | Easy | String Reversal | O(n) | O(n) |
 | 0009 | Palindrome Number | Easy | String Reversal | O(n) | O(n) |
 
-## Goals
+##  Goals
 
 - Solve LeetCode problems consistently.
-- Improve problem-solving and logical thinking.
+- Improve logical thinking and problem-solving skills.
 - Master Data Structures and Algorithms.
 - Prepare for coding interviews and placements.
+- Track my learning journey through GitHub.
+
+##  Notes
+
+- Each problem is stored in its own folder.
+- Every folder contains:
+  - `solution.py` – Python solution.
+  - `README.md` – Problem description, approach, and complexity analysis.
+- Solutions are added regularly as I solve new problems.
 
 ---
 
-⭐ If you find this repository helpful, feel free to star it!
+⭐ **Thank you for visiting my repository!**
