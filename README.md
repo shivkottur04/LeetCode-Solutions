@@ -25,6 +25,10 @@ LeetCode-Solutions/
 │   ├── README.md
 │   └── solution.py
 │
+└── 0009-removeDuplicates-from sorted array/
+│   ├── README.md
+│   └── solution.py
+│
 └── ...
 ```
 
@@ -32,7 +36,7 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 3 |
+| Easy | 4 |
 | Medium | 0 |
 | Hard | 0 |
 | **Total** | **3** |
@@ -44,6 +48,7 @@ LeetCode-Solutions/
 | 0001 | Two Sum | Easy | Brute Force (Nested Loops) | O(n²) | O(1) |
 | 0007 | Reverse Integer | Easy | String Reversal | O(n) | O(n) |
 | 0009 | Palindrome Number | Easy | String Reversal | O(n) | O(n) |
+| 0026 | Remove Duplicates from Sorted Array| Easy | Set + Sort | O(n log n) | O(n) |
 
 ##  Goals
 
