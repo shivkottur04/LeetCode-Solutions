@@ -36,7 +36,7 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 3 |
+| Easy | 4 |
 | Medium | 1 |
 | Hard | 0 |
 | **Total** | **3** |
@@ -49,6 +49,7 @@ LeetCode-Solutions/
 | 0007 | Reverse Integer | Medium | String Reversal | O(n) | O(n) |
 | 0009 | Palindrome Number | Easy | String Reversal | O(n) | O(n) |
 | 0026 | Remove Duplicates from Sorted Array| Easy | Set + Sort | O(n log n) | O(n) |
+| 0058 | Length of Last Word | Easy | O(n) | O(n) |
 
 ##  Goals
 
