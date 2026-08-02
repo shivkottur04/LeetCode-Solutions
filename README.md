@@ -36,8 +36,8 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 4 |
-| Medium | 0 |
+| Easy | 3 |
+| Medium | 1 |
 | Hard | 0 |
 | **Total** | **3** |
 
@@ -46,7 +46,7 @@ LeetCode-Solutions/
 | # | Problem | Difficulty | Approach | Time | Space |
 |---|---------|------------|----------|------|-------|
 | 0001 | Two Sum | Easy | Brute Force (Nested Loops) | O(n²) | O(1) |
-| 0007 | Reverse Integer | Easy | String Reversal | O(n) | O(n) |
+| 0007 | Reverse Integer | Medium | String Reversal | O(n) | O(n) |
 | 0009 | Palindrome Number | Easy | String Reversal | O(n) | O(n) |
 | 0026 | Remove Duplicates from Sorted Array| Easy | Set + Sort | O(n log n) | O(n) |
 
