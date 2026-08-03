@@ -37,6 +37,10 @@ LeetCode-Solutions/
 │   ├── README.md
 │   └── solution.py
 │
+└──  0088-merge-sorted-array/
+│   ├── README.md
+│   └── solution.py
+│
 └── ...
 ```
 
@@ -44,10 +48,10 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 5 |
+| Easy | 6 |
 | Medium | 1 |
 | Hard | 0 |
-| **Total** | **6** |
+| **Total** | **7** |
 
 ##  Problems Solved
 
@@ -59,6 +63,7 @@ LeetCode-Solutions/
 | 0026 | Remove Duplicates from Sorted Array| Easy | Set + Sort | O(n log n) | O(n) |
 | 0058 | Length of Last Word | Easy | O(n) | O(n) |
 | 0066 | Plus One | Easy | String Conversion | O(n) | O(n) |
+| 0088 | Merge Sorted Array | Easy |  Replace & Sort | O((m+n) log(m+n)) | O(1) |
 
 ##  Goals
 
