@@ -33,6 +33,10 @@ LeetCode-Solutions/
 │   ├── README.md
 │   └── solution.py
 │
+└── 0066-plus-one/
+│   ├── README.md
+│   └── solution.py
+│
 └── ...
 ```
 
@@ -40,10 +44,10 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 1 |
 | Hard | 0 |
-| **Total** | **3** |
+| **Total** | **6** |
 
 ##  Problems Solved
 
@@ -54,6 +58,7 @@ LeetCode-Solutions/
 | 0009 | Palindrome Number | Easy | String Reversal | O(n) | O(n) |
 | 0026 | Remove Duplicates from Sorted Array| Easy | Set + Sort | O(n log n) | O(n) |
 | 0058 | Length of Last Word | Easy | O(n) | O(n) |
+| 0066 | Plus One | Easy | String Conversion | O(n) | O(n) |
 
 ##  Goals
 
