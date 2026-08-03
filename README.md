@@ -49,6 +49,10 @@ LeetCode-Solutions/
 │   ├── README.md
 │   └── solution.py
 │
+└── 0137-single-number-II/
+│   ├── README.md
+│   └── solution.py
+│
 └── ...
 ```
 
@@ -57,9 +61,9 @@ LeetCode-Solutions/
 | Difficulty | Solved |
 |------------|:------:|
 | Easy | 8 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
-| **Total** | **9** |
+| **Total** | **10** |
 
 ##  Problems Solved
 
@@ -74,6 +78,7 @@ LeetCode-Solutions/
 | 0088 | Merge Sorted Array | Easy |  Replace & Sort | O((m+n) log(m+n)) | O(1) |
 | 0136 | Single Number | Easy |  Hash Map (Frequency Count) | O(n) | O(n) |
 | 0268 | Missing Number | Easy | Sorting & Index Comparison | O(n log n) | O(1) |
+| 0137 | Single Number II | Medium | Hash Map (Frequency Count) | O(n) | O(n) |
 
 ##  Goals
 
