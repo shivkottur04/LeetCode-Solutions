@@ -25,7 +25,7 @@ LeetCode-Solutions/
 │   ├── README.md
 │   └── solution.py
 │
-└── 0009-removeDuplicates-from sorted array/
+└── 0026-removeDuplicates-from sorted array/
 │   ├── README.md
 │   └── solution.py
 │
