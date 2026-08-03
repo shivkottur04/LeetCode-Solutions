@@ -41,6 +41,10 @@ LeetCode-Solutions/
 │   ├── README.md
 │   └── solution.py
 │
+└──  0136-single-number/
+│   ├── README.md
+│   └── solution.py
+│
 └── ...
 ```
 
@@ -48,10 +52,10 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 1 |
 | Hard | 0 |
-| **Total** | **7** |
+| **Total** | **8** |
 
 ##  Problems Solved
 
@@ -64,6 +68,7 @@ LeetCode-Solutions/
 | 0058 | Length of Last Word | Easy | O(n) | O(n) |
 | 0066 | Plus One | Easy | String Conversion | O(n) | O(n) |
 | 0088 | Merge Sorted Array | Easy |  Replace & Sort | O((m+n) log(m+n)) | O(1) |
+| 0136 | Single Number | Easy |  Hash Map (Frequency Count) | O(n) | O(n) |
 
 ##  Goals
 
