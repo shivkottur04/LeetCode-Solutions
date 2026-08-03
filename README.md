@@ -45,6 +45,10 @@ LeetCode-Solutions/
 │   ├── README.md
 │   └── solution.py
 │
+└──  0268-missing-number/
+│   ├── README.md
+│   └── solution.py
+│
 └── ...
 ```
 
@@ -52,10 +56,10 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 1 |
 | Hard | 0 |
-| **Total** | **8** |
+| **Total** | **9** |
 
 ##  Problems Solved
 
@@ -69,6 +73,7 @@ LeetCode-Solutions/
 | 0066 | Plus One | Easy | String Conversion | O(n) | O(n) |
 | 0088 | Merge Sorted Array | Easy |  Replace & Sort | O((m+n) log(m+n)) | O(1) |
 | 0136 | Single Number | Easy |  Hash Map (Frequency Count) | O(n) | O(n) |
+| 0268 | Missing Number | Easy | Sorting & Index Comparison | O(n log n) | O(1) |
 
 ##  Goals
 
