@@ -13,7 +13,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 | Easy | 27 |
 | Medium | 3 |
 | Hard | 0 |
-| **Total** | **29** |
+| **Total** | **30** |
 
 
 ##  Goals
