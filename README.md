@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -61,4 +62,12 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
