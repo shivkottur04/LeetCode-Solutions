@@ -84,6 +84,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 | [0704-binary-search](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1207-unique-number-of-occurrences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1572-matrix-diagonal-sum](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
@@ -98,6 +99,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
