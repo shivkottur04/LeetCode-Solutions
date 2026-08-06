@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 | [0217-contains-duplicate](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -124,6 +125,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Matrix
 |  |
@@ -133,6 +135,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Enumeration
@@ -147,4 +150,8 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
