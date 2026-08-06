@@ -132,10 +132,19 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
