@@ -10,10 +10,10 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 29 |
+| Easy | 30 |
 | Medium | 3 |
 | Hard | 0 |
-| **Total** | **32** |
+| **Total** | **33** |
 
 
 ##  Goals
