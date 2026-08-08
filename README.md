@@ -78,6 +78,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -115,6 +116,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -161,4 +163,8 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
