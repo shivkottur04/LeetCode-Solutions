@@ -133,6 +133,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Counting
@@ -177,4 +178,5 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
