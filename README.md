@@ -78,6 +78,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Array
@@ -119,6 +120,7 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0326-power-of-three) |
