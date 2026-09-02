@@ -11,9 +11,9 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 | Difficulty | Solved |
 |------------|:------:|
 | Easy | 36 |
-| Medium | 5 |
+| Medium | 6 |
 | Hard | 1 |
-| **Total** | **42** |
+| **Total** | **43** |
 
 
 ##  Goals
