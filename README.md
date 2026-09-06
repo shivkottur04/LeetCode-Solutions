@@ -214,4 +214,5 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0183-customers-who-never-order](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0596-classes-with-at-least-5-students](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
+| [1729-find-followers-count](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
