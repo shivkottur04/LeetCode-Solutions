@@ -206,4 +206,8 @@ This repository contains my solutions to LeetCode problems in **Python**. I crea
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
