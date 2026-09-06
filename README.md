@@ -1,19 +1,20 @@
 # LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems in **Python**. I created this repository to improve my problem-solving skills, strengthen my understanding of Data Structures and Algorithms, and prepare for coding interviews and placements.
+This repository contains my solutions to LeetCode problems in Python and SQL. I created this repository to improve my problem-solving skills, strengthen my understanding of Data Structures, Algorithms, and Databases, and prepare for coding interviews and placements.
 
 ##  Language
 
 - Python
+- SQL
 
 ## 📊 Progress
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 38 |
+| Easy | 39 |
 | Medium | 7 |
 | Hard | 1 |
-| **Total** | **46** |
+| **Total** | **47** |
 
 
 ##  Goals
