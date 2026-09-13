@@ -219,12 +219,19 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
