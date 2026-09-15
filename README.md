@@ -191,6 +191,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
@@ -199,6 +200,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
@@ -281,4 +283,8 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
