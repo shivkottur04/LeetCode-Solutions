@@ -117,6 +117,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0977-squares-of-a-sorted-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1089-duplicate-zeros](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -141,6 +142,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1200-minimum-absolute-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
