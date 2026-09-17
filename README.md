@@ -145,6 +145,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -231,6 +232,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Enumeration
 |  |
