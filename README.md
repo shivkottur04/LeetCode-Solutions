@@ -133,6 +133,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1748-sum-of-unique-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -156,6 +157,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1200-minimum-absolute-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
