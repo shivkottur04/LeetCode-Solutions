@@ -79,6 +79,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0349-intersection-of-two-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Floyd's Cycle Finding Algorithm
@@ -115,6 +116,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0867-transpose-matrix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1089-duplicate-zeros](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
