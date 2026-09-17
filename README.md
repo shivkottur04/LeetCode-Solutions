@@ -139,6 +139,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1512-number-of-good-pairs](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1748-sum-of-unique-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
