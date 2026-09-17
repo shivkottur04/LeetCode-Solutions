@@ -11,8 +11,8 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 59 |
-| Medium | 10 |
+| Easy | 57 |
+| Medium | 12 |
 | Hard | 1 |
 | **Total** | **70** |
 
