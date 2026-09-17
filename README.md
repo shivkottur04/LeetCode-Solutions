@@ -160,6 +160,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -235,6 +236,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
@@ -352,6 +354,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1389-create-target-array-in-the-given-order](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
