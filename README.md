@@ -163,6 +163,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
