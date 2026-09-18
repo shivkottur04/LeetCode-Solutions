@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1748-sum-of-unique-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
@@ -163,6 +164,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2032-two-out-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -221,6 +223,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
