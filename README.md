@@ -115,6 +115,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0027-remove-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -238,6 +239,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
