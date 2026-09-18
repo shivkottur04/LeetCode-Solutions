@@ -174,6 +174,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
