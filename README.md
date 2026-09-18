@@ -99,6 +99,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1089-duplicate-zeros](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Floyd's Cycle Finding Algorithm
@@ -189,6 +190,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -411,6 +413,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1929-concatenation-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2460-apply-operations-to-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
