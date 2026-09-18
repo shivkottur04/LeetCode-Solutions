@@ -225,6 +225,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0189-rotate-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -235,6 +236,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0004-median-of-two-sorted-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
