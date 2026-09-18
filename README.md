@@ -191,6 +191,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2404-most-frequent-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -248,6 +249,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1539-kth-missing-positive-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -277,6 +279,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2085-count-common-words-with-one-occurrence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
