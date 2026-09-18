@@ -173,6 +173,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -199,6 +200,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
