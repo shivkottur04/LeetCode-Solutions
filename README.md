@@ -91,6 +91,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0443-string-compression](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Floyd's Cycle Finding Algorithm
@@ -170,6 +171,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2057-smallest-index-with-equal-value](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -275,6 +277,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Enumeration
