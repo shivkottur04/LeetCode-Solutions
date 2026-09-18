@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0001-two-sum](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -117,6 +118,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0128-longest-consecutive-sequence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -189,6 +191,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -251,6 +254,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -331,6 +335,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## String Matching
@@ -388,6 +393,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
