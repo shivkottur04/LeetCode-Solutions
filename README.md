@@ -172,6 +172,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2085-count-common-words-with-one-occurrence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -278,6 +279,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2053-kth-distinct-string-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Enumeration
