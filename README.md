@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
@@ -220,6 +221,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
@@ -233,6 +235,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1748-sum-of-unique-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
 | ------- |
@@ -262,6 +265,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Enumeration
 |  |
