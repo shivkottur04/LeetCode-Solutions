@@ -1,39 +1,32 @@
-# 0007. Reverse Integer
+<h2><a href="https://leetcode.com/problems/reverse-integer">7. Reverse Integer</a></h2><h3>Medium</h3><hr><p>Given a signed 32-bit integer <code>x</code>, return <code>x</code><em> with its digits reversed</em>. If reversing <code>x</code> causes the value to go outside the signed 32-bit integer range <code>[-2<sup>31</sup>, 2<sup>31</sup> - 1]</code>, then return <code>0</code>.</p>
 
-## Problem Statement
+<p><strong>Assume the environment does not allow you to store 64-bit integers (signed or unsigned).</strong></p>
 
-Given a signed 32-bit integer `x`, return `x` with its digits reversed. If reversing `x` causes the value to go outside the signed 32-bit integer range `[-2³¹, 2³¹ - 1]`, return `0`.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-## Approach
+<pre>
+<strong>Input:</strong> x = 123
+<strong>Output:</strong> 321
+</pre>
 
-- Store the original number to preserve its sign.
-- Convert negative numbers to positive before reversing.
-- Reverse the digits using string slicing.
-- Convert the reversed string back to an integer.
-- Check whether the reversed number is within the 32-bit signed integer range.
-- Restore the negative sign if the original number was negative.
+<p><strong class="example">Example 2:</strong></p>
 
-## Complexity Analysis
+<pre>
+<strong>Input:</strong> x = -123
+<strong>Output:</strong> -321
+</pre>
 
-- **Time Complexity:** O(n)
-- **Space Complexity:** O(n)
+<p><strong class="example">Example 3:</strong></p>
 
-where `n` is the number of digits in the integer.
+<pre>
+<strong>Input:</strong> x = 120
+<strong>Output:</strong> 21
+</pre>
 
-## Example
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-**Input**
-
-```
-123
-```
-
-**Output**
-
-```
-321
-```
-
-## Solution
-
-The Python implementation is available in **`solution.py`**.
+<ul>
+	<li><code>-2<sup>31</sup> &lt;= x &lt;= 2<sup>31</sup> - 1</code></li>
+</ul>
