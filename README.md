@@ -214,6 +214,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
