@@ -233,6 +233,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | ------- |
 | [0007-reverse-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -259,6 +260,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0190-reverse-bits) |
@@ -299,6 +301,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0020-valid-parentheses](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -416,6 +419,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
