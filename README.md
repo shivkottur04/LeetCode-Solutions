@@ -11,10 +11,10 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 
 | Difficulty | Solved |
 |------------|:------:|
-| Easy | 107 |
+| Easy | 108 |
 | Medium | 13 |
 | Hard | 1 |
-| **Total** | **121** |
+| **Total** | **122** |
 
 
 ##  Goals
