@@ -333,6 +333,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -391,6 +392,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -403,12 +405,14 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 ## Boyer–Moore Majority Vote Algorithm
