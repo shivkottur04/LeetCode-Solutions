@@ -320,6 +320,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0796-rotate-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
@@ -378,6 +379,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
