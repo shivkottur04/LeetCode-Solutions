@@ -12,9 +12,9 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | Difficulty | Solved |
 |------------|:------:|
 | Easy | 111 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 1 |
-| **Total** | **125** |
+| **Total** | **126** |
 
 
 ##  Goals
