@@ -91,6 +91,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -303,6 +304,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0058-length-of-last-word](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
