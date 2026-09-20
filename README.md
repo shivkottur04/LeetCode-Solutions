@@ -337,6 +337,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -456,6 +457,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2460-apply-operations-to-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
