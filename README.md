@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0705-design-hashset](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0819-most-common-word](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -85,6 +86,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0141-linked-list-cycle](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -155,6 +157,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0496-next-greater-element-i](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -497,6 +500,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0705-design-hashset) |
 ## Greedy
 |  |
 | ------- |
@@ -526,4 +530,8 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
