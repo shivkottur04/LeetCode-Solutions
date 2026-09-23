@@ -86,6 +86,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0203-remove-linked-list-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -258,6 +259,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0326-power-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
