@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2404-most-frequent-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +87,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0206-reverse-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +216,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
