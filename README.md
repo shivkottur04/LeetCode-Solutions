@@ -436,6 +436,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0584-find-customer-referee](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
 | [1729-find-followers-count](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1729-find-followers-count) |
 ## Tree
