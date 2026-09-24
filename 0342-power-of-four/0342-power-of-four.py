@@ -4,8 +4,8 @@ class Solution:
         if n<=0:
             return False
         x=math.log(n,4)
-        y=int(x)
-        if x==y:
+        
+        if x==int(x):
             return True
         else:
             return False
