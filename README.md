@@ -130,6 +130,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0050-powx-n](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Array
 |  |
@@ -261,6 +262,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0050-powx-n](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -295,6 +297,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0136-single-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
