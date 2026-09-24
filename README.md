@@ -132,6 +132,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0206-reverse-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -265,6 +266,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0231-power-of-two](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -299,6 +301,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0190-reverse-bits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
