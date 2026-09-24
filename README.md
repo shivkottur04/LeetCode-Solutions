@@ -268,6 +268,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0326-power-of-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0372-super-pow](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0633-sum-of-square-numbers](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -410,6 +411,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0190-reverse-bits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0372-super-pow) |
 ## String Matching
 |  |
 | ------- |
@@ -551,4 +553,12 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
