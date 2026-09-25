@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0496-next-greater-element-i](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0771-jewels-and-stones](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -364,6 +365,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0451-sort-characters-by-frequency](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
