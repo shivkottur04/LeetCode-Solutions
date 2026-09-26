@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2540-minimum-common-value](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
 | ------- |
@@ -235,6 +236,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -343,6 +345,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3866-first-unique-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
