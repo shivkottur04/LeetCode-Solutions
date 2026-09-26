@@ -364,6 +364,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0389-find-the-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
