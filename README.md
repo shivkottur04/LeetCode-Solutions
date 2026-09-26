@@ -237,6 +237,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
+| [3912-valid-elements-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3912-valid-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
