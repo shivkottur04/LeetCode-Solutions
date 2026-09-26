@@ -114,6 +114,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
@@ -368,6 +369,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0771-jewels-and-stones](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1408-string-matching-in-an-array) |
@@ -399,6 +401,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0225-implement-stack-using-queues](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Bracket Sequences
@@ -501,6 +504,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
