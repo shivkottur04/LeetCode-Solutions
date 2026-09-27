@@ -291,6 +291,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1512-number-of-good-pairs](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -401,6 +402,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Stack
 |  |
@@ -565,14 +567,17 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Trie
 |  |
 | ------- |
