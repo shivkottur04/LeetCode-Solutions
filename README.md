@@ -226,6 +226,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2404-most-frequent-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -293,6 +294,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
