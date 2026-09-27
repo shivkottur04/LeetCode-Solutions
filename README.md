@@ -297,6 +297,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
