@@ -120,6 +120,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0844-backspace-string-compare](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -177,6 +178,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0819-most-common-word](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1089-duplicate-zeros](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
@@ -260,6 +262,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0451-sort-characters-by-frequency](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
