@@ -295,6 +295,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0367-valid-perfect-square](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0633-sum-of-square-numbers](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
