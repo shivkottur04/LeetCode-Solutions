@@ -302,6 +302,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [1822-sign-of-the-product-of-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
