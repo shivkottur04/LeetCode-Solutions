@@ -312,6 +312,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3870-count-commas-in-range](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
 | ------- |
