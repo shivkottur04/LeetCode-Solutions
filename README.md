@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
@@ -420,6 +421,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
