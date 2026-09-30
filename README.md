@@ -246,6 +246,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3701-compute-alternating-sum](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3912-valid-elements-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3912-valid-elements-in-an-array) |
@@ -554,6 +555,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [2553-separate-the-digits-in-an-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
