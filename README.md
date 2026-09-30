@@ -13,8 +13,8 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |------------|:------:|
 | Easy | 155 |
 | Medium | 25 |
-| Hard | 1 |
-| **Total** | **181** |
+| Hard | 2 |
+| **Total** | **182** |
 
 
 ##  Goals
