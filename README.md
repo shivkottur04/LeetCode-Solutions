@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -153,6 +154,7 @@ This repository contains my solutions to LeetCode problems in Python and SQL. I 
 | [0014-longest-common-prefix](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shivkottur04/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
